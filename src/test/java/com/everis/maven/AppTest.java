@@ -1,4 +1,4 @@
-package com.everis.com;
+package com.everis.maven;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

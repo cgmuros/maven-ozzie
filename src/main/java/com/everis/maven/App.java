@@ -1,4 +1,4 @@
-package com.everis.com;
+package com.everis.maven;
 
 import org.apache.oozie.client.OozieClient;
 import org.apache.oozie.client.OozieClientException;

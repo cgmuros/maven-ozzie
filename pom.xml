@@ -27,7 +27,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.everis.com.App</mainClass>
+                            <mainClass>com.everis.maven.App</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
